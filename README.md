@@ -16,7 +16,7 @@ Just a person who likes to code :)
 _______
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KOOL13&hide=prs,issues&theme=radical)">
+  <img src="https://github-readme-stats.vercel.app/api?username=KOOL13&hide=prs,issues&theme=radical">
 </div>
   <!--
 **KOOL13/KOOL13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
