@@ -1,4 +1,6 @@
+```
 Just a person who likes to code :)
+```
 
 ### Languages:
 - NodeJS/JavaScript
@@ -10,6 +12,8 @@ Just a person who likes to code :)
 
 ### Custom Discord Bots:
 Want a custom discord bot for free? DM me on discord (KOOL#5523) and I'll be happy to make you one! (hosting not included)
+
+_______
 
 ![](https://github-readme-stats.vercel.app/api?username=KOOL13&hide=prs,issues&theme=radical)
 <!--
