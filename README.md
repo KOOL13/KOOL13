@@ -8,10 +8,9 @@ Just a person who likes to code :)
 - Python (Currently Learning)
 
 ### Projects:
-- DisBoi: The ultimate discord bot with powerful utility and moderation features including tickets, suggestions, and more! It's verified on TopGG too!
+- [DisBoi](https://top.gg/bot/787121589794635777): The ultimate discord bot with powerful utility and moderation features including tickets, suggestions, and more! It's verified on TopGG too!
 
-### Custom Discord Bots:
-Want a custom discord bot for free? DM me on discord (KOOL#5523) and I'll be happy to make you one! (hosting not included)
+> Want a custom discord bot for free? DM me on discord (KOOL#5523) and I'll be happy to make you one! (hosting not included)
 
 _______
 
