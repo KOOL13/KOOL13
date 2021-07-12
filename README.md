@@ -11,6 +11,7 @@ Just a person who likes to code :)
 | Name      | Languages  | Type             | Description |
 | ---       | ---        | ---              | ---         |
 | DisBoi    | JavaScript | Discord Bot      | DisBoi is a multipurpose discord bot with many moderation and utility features such as such as suggestions and tickets. |
+| School Helper Bot | Javascript | Discord Bot | School Helper Bot is a discord bot based around helping you in school. It has a variety of websites, sources, and notes that can help make school a little easier. |
 
 
 > Want a custom discord bot for free? DM me on discord (KOOL#5523) and I'll be happy to make you one! (hosting not included)
