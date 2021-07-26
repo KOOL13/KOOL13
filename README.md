@@ -15,7 +15,7 @@ Just a person who likes to code :)
 | discord-funstuff | JavaScript | NPM Package | discord-funstuff is a package that can help you easily create fun features for your bot, such as memes, tictactoe, and more. |
 
 
-> Want a custom discord bot for free? DM me on discord (KOOL#5523) and I'll be happy to make you one! (hosting not included)
+> Want a custom discord bot for free? DM me on discord (KOOL#0001) and I'll be happy to make you one! (hosting not included)
 
 _______
 
