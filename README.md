@@ -1,8 +1,8 @@
 ```
 Just a person who likes to code :)
 ```
-
-Discord: KOOL#0394
+_______
+**Discord: KOOL#0394**
 
 _______
 ### Skills:
