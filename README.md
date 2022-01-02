@@ -1,15 +1,13 @@
 ```
 Just a person who likes to code :)
 ```
-_______
-**Discord: KOOL#0394**
 
-_______
 ### Skills:
 - NodeJS/JavaScript | aoi.js + discord.js
 - HTML & CSS
 - Python
 
+**Discord: KOOL#0394**
 _______
 
 <div align="center">
