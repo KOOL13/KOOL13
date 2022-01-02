@@ -2,6 +2,9 @@
 Just a person who likes to code :)
 ```
 
+Discord: KOOL#0394
+
+_______
 ### Skills:
 - NodeJS/JavaScript | aoi.js + discord.js
 - HTML & CSS
